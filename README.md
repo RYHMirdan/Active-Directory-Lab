@@ -8,4 +8,4 @@ Built in VMware workstaion, this lab includes a Windows Server which is setup to
 + **Windows Server 2019:** Domain Controller
 + **Windows 10:** Client user
 + **Active Directory Users & Computers:** Users and Admin group management
-+ **Powershell:** script automated bulk 1000 users creation
++ **Powershell:** Script automated bulk 1000 users creation

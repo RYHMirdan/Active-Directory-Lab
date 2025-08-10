@@ -1,3 +1,7 @@
+**DNS:**
+- Configured the Domain Controller as the DNS server for internal name resolution
+- Verified forward and reverse lookup zones, Tested DNS resolution by pinging internal and external domains
+
 **Implemented and maintained the Windows Server DNS, Enabled DNS resolution within the domain.**
 
 **DNS is 172.16.0.1 (The Domain Controller is used as DNS)**

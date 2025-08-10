@@ -9,3 +9,5 @@ Built in VMware workstaion, this lab includes a Windows Server which is setup to
 + **Windows 10:** Client user
 + **Active Directory Users & Computers:** Users and Admin group management
 + **Powershell:** Script automated bulk 1000 users creation
+
+<img width="845" height="486" alt="Screenshot 2025-08-09 005340" src="https://github.com/user-attachments/assets/9da613f4-30ef-4166-aac0-ed71e1ed8453" />

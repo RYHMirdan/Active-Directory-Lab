@@ -12,6 +12,7 @@ Built in VMware workstaion, this lab includes a Windows Server which is setup to
 
 **Practical Experience:**
 + **Network configuration: NAT, PAT, IP subnetting**
++ **Familiarity with PowerShell scripting**
 + **Identity and Access Management (IAM) with AD**
 + **DNS troubleshooring: forward/reverse lookups, ping testing**
 + **DHCP scope creation, lease troubleshooting**

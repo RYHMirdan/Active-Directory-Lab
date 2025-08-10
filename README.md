@@ -10,4 +10,11 @@ Built in VMware workstaion, this lab includes a Windows Server which is setup to
 + **Active Directory Users & Computers:** Users and Admin group management
 + **Powershell:** Script automated bulk 1000 users creation
 
+**Skills gained:**
++ **Network configuration: NAT, PAT, IP subnetting**
++ **Identity and Access Management (IAM) with AD**
++ **DNS troubleshooring: forward/reverse lookups, ping testing**
++ **DHCP scope creation, lease troubleshooting**
++ **Connectivity testing**
+
 <img width="845" height="486" alt="Screenshot 2025-08-09 005340" src="https://github.com/user-attachments/assets/9da613f4-30ef-4166-aac0-ed71e1ed8453" />

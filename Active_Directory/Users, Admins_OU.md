@@ -1,3 +1,9 @@
+**AD:**
+
+ - Created and organized OU's for Admins and Users
+ - Applied GPO's to enforce password and login restrictions
+ - Added 1k+ test users through powershell automation
+
 **ADMINS OU created:**
 
 <img width="592" height="418" alt="Screenshot 2025-08-09 030921" src="https://github.com/user-attachments/assets/e09a252d-292a-47a6-908b-87e4a6afcee4" />

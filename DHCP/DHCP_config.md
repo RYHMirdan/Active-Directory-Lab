@@ -1,4 +1,4 @@
-**DHCP Server set up with a single scope of 172.16.0.100-200, DNS: 172.16.0.1, Default Gateway: 172.16.0.1 which is the DC's Ipv4 (Clients will use the internal NIC of the domain controller as the default gateway/router)**
+**DHCP Server set up with a single scope of 172.16.0.100-200, DNS: 172.16.0.1 (Domain Controller used a DNS), Default Gateway: 172.16.0.1 which is the DC's Ipv4 (Clients will use the internal NIC of the domain controller as the default gateway/router)**
 
 This will allow the Windows 10 Client to automatically get an IP address, which lets them access the internet, regardless of being on this private internal network- similar to an office setting.
 

@@ -10,5 +10,5 @@
 
 <img width="805" height="565" alt="Screenshot 2025-08-10 030703" src="https://github.com/user-attachments/assets/c33380ea-9b33-46eb-9ff0-d70796ae9044" />
 
-**Testing DNS resolution by pinging google.com:**
+**Testing DNS resolution by pinging www.google.com:**
 <img width="976" height="510" alt="Screenshot 2025-08-08 183014" src="https://github.com/user-attachments/assets/1d603add-0512-478b-88d6-0d535282cb89" />

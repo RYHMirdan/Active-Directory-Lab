@@ -2,7 +2,7 @@
 
 This will allow the Windows 10 Client to automatically get an IP address, which lets them access the internet, regardless of being on this private internal network- similar to an office setting.
 
-Server Manager> Add Roles and Features Wizard> Install DHCP
+Server Manager > Add Roles and Features Wizard > Install DHCP
 
 <img width="394" height="447" alt="Screenshot 2025-08-10 022552" src="https://github.com/user-attachments/assets/344c473f-3993-431e-9771-29cf9b1644e4" />
 <img width="756" height="349" alt="Screenshot 2025-08-10 022401" src="https://github.com/user-attachments/assets/eacb152c-d629-4d9f-86b0-e9ca0d0636e8" />

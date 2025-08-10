@@ -14,3 +14,5 @@ Created the Admins OU, set up a username style: first letter of first name+ last
 
 <img width="598" height="410" alt="Screenshot 2025-08-08 035721" src="https://github.com/user-attachments/assets/70579926-3f35-40e3-b45c-79713e517196" />
 
+**Ensuring that the Windows Client was registered on the Active Directory:**
+<img width="748" height="524" alt="Screenshot 2025-08-08 233253" src="https://github.com/user-attachments/assets/1d96905b-af90-4d9e-8981-798f7be5b7c9" />

@@ -1,6 +1,6 @@
 # Active-Directory-Lab
 
-&ensp;Using this Lab that Ive set up, Ive imitated a mini corporate Active Directory environment that utlizes Windows Server and supporting services.
+Using this Lab that Ive set up, Ive imitated a mini corporate Active Directory environment that utlizes Windows Server and supporting services.
 Built in VMware workstaion, this lab includes a Windows Server which is setup to be the domain controller and a Windows 10 server which acts as Client 1. Active Directory, DNS, DHCP services, and RAS for NAT were all also installed and configured, aswell as Powershell scripting for automation. 
 
 **Tools:**
